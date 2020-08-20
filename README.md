@@ -4,6 +4,7 @@
 Here are some ideas to get you started:
 
 - Check out my Projects page for a structured overview:
+<br>
   [Projects](https://github.com/JosephEnd?tab=projects)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
