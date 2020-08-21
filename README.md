@@ -10,12 +10,6 @@
   Java
   
   DevOps: Terraform, Ansible, Packer
-  
-  
-- 🔭 I’m currently working on:
- 
-  Study projects
-
 
 <!--
 - 👯 I’m looking to collaborate on ...
