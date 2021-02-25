@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning:
 
-
-  Java
   
   DevOps: Terraform, Ansible, Packer
 
