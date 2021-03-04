@@ -1,5 +1,5 @@
 ## Hi, I'm Joseph 👋
-### Infrastructure student
+### Infrastructure student (Cloud Engineer)
 
 - [Propedeuse Persoonlijk beroepsopdracht](https://github.com/JosephEnd/Studie_Propedeuse_Beroepsopdracht)
   
@@ -7,9 +7,7 @@
 
   DevOps: Terraform, Ansible, Packer
   
-- Check out my Projects page for a structured overview:
-
- [Projects](https://github.com/JosephEnd?tab=projects&q=is:open%20sort:name-asc)
+- Check out my Projects page for a structured overview: [Projects](https://github.com/JosephEnd?tab=projects&q=is:open%20sort:name-asc)
 
 <!--
 - 👯 I’m looking to collaborate on ...
