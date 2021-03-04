@@ -7,9 +7,9 @@
 
   DevOps: Terraform, Ansible, Packer
   
-  - Check out my Projects page for a structured overview:
+- Check out my Projects page for a structured overview:
 
-  [Projects](https://github.com/JosephEnd?tab=projects&q=is:open%20sort:name-asc)
+ [Projects](https://github.com/JosephEnd?tab=projects&q=is:open%20sort:name-asc)
 
 <!--
 - 👯 I’m looking to collaborate on ...
