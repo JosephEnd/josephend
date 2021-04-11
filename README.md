@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://github.com/JosephEnd/josephend/blob/1020f23ee528cf9062a200b108de4d7edcd22d0c/Hi.png"
+ <img src="h"
 </h1>
            
 - [Propedeuse Persoonlijk beroepsopdracht](https://github.com/JosephEnd/Studie_Propedeuse_Beroepsopdracht)
