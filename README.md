@@ -1,6 +1,7 @@
-## Hi, I'm Joseph 👋
-### Infrastructure student (Cloud Engineer)
-
+<h1 align="center">
+ <img src="https://github.com/JosephEnd/josephend/blob/1020f23ee528cf9062a200b108de4d7edcd22d0c/Hi.png
+</h1>
+           
 - [Propedeuse Persoonlijk beroepsopdracht](https://github.com/JosephEnd/Studie_Propedeuse_Beroepsopdracht)
   
 - 🌱 I’m currently learning:
